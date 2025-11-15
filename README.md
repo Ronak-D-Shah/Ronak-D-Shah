@@ -8,7 +8,7 @@ I work across **frontend, backend, cloud, automation, and real-time systems**, a
 
 ## ⚡ Tech Stack  
 **Languages:** Java · Python · JavaScript · TypeScript · SQL · NoSQL  
-**Backend:** Spring Boot · Node.js · Express.js · Django · Flask · FastAPI
+**Backend:** Spring Boot · Node.js · Express.js · Django · Flask · FastAPI  
 **Frontend:** React.js · Next.js · TailwindCSS  
 **Databases:** PostgreSQL · MongoDB · MySQL · Firebase  
 **Cloud & DevOps:** AWS · Docker · GitHub Actions · CI/CD  
@@ -19,7 +19,7 @@ I work across **frontend, backend, cloud, automation, and real-time systems**, a
 ## 📬 Connect  
 🔗 **Portfolio:** https://ronak-d-shah.github.io/Ronak-Portfolio  
 🐙 **GitHub:** https://github.com/Ronak-D-Shah  
-💼 **LinkedIn:** https://www.linkedin.com/in/ronak-shah-5858b81a5/ 
+💼 **LinkedIn:** https://www.linkedin.com/in/ronak-shah-5858b81a5/  
 📧 Email: shah.ronak2@northeastern.edu
 
 ---
